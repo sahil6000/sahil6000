@@ -19,7 +19,7 @@
 
 <!-- ✅ GitHub dark banner (no photo) -->
 <p align="center">
- <img src="https://github.com/sahil6000/sahil6000/blob/main/github-header-dark.png" alt="GitHub Banner" width="100%" />
+ <img src="https://github.com/sahil6000/sahil6000/blob/main/github-header-img.png" alt="GitHub Banner" width="100%" />
 </p>
 
 
