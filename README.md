@@ -13,7 +13,7 @@
 
 <!-- ✅ Typing animated quote -->
 <p align="center">
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Code.+Analyze.+Innovate.;Build+things+that+make+a+difference." alt="Typing SVG" />
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&center=true&vCenter=true&width=600&lines=Code.+Analyze.+Innovate.;Build+things+that+make+a+difference.;Empowering+decisions+through+data+science.;Driving+business+insight+with+advanced+analytics.;Turning+data+into+decisions." alt="Typing SVG" />
 </p>
 
 
