@@ -92,7 +92,10 @@ I'm **Sahil Kumar**, a final-year **BCA student** with a specialization in **Dat
 > A complete statistical analysis using correlation, regression, and visualizations on student habits vs exam performance.
 
 ### 🔹 [📈 To Do List – Project](https://gdsc-phcet.github.io/todo-list/)
-> A record of tasks and goals that need to be completed, typically organized by priority and timeframe, to improve productivity and organization
+> A record of tasks and goals that need to be completed, typically organized by priority and timeframe, to improve productivity and organization.
+
+### 🔹 [📈 Personal-Expense-Tracker – Project](https://abhi7044-eng.github.io/Personal-Expense-Tracker/)
+> This project is a financial management tool designed to help individuals effectively monitor, manage, and control their personal spending habits
 ---
 
 ## 📈 GitHub Stats & Trophies
