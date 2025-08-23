@@ -91,6 +91,8 @@ I'm **Sahil Kumar**, a final-year **BCA student** with a specialization in **Dat
 ### 🔹 [📈 Student Performance Analysis – R Project](https://github.com/sahil6000/student-performance-R)
 > A complete statistical analysis using correlation, regression, and visualizations on student habits vs exam performance.
 
+### 🔹 [📈 To Do List – Project](https://gdsc-phcet.github.io/todo-list/)
+> A record of tasks and goals that need to be completed, typically organized by priority and timeframe, to improve productivity and organization
 ---
 
 ## 📈 GitHub Stats & Trophies
